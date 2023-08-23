@@ -13,7 +13,7 @@ Welcome to the weather-app repository! This is a web application that allows use
 - [License](#license)
 
 ## Introduction
-WeatherApp is a project developed by [Your Name] as part of upskilling in web development. The app fetches real-time weather data from a weather API and presents it in a user-friendly manner on the web interface.
+WeatherApp is a project developed by Thembi as part of upskilling in web development. The app fetches real-time weather data from a weather API and presents it in a user-friendly manner on the web interface.
 
 ## Features
 - **Current Weather:** Get the latest weather information for a specific location.
