@@ -47,6 +47,8 @@ To run the WeatherApp locally, follow these steps:
 - [Weather API](https://openweathermap.org/api) - Used to fetch weather data
 
 ## Screenshots
+[Live Demo](https://weather-app-ngww.vercel.app)
+
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
 
